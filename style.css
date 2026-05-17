@@ -1,0 +1,126 @@
+<style>
+body {
+    font-family: Arial, sans-serif;
+        background-color: #e5e5e5;
+        margin: 0;
+        padding: 0;
+    
+}
+.header {
+   
+    background: #4a89dc;
+    color: white;
+    text-align: center;
+    padding: 20px 10px;
+    border-bottom: 3px solid #357ab8;
+    border-radius: 0 0 10px 10px;
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 28px;
+}
+
+.header p {
+    margin: 5px 0 0;
+    font-size: 14px;
+}
+.Box{
+    background: #f4f4f4;
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+.Box h3 {
+    margin-top: 0;
+    color: #333;
+}
+.Box img {
+    width: 160px;
+        height: 100px;
+        border-radius: 5px;
+        border: 1px solid #999;
+}
+.Table {
+    background: #f4f4f4;
+        padding: 20px;
+        margin: 20px auto;
+        border-radius: 10px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.Table h3 {
+    margin-top: 0;
+    color: #333;
+}
+.Table table {
+    width: 100%;
+    border-collapse: collapse;
+    
+}
+.Table th, .Table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+.Table th {
+    background-color: #4a89dc;
+    color: white;
+}
+.box{
+    background: #f4f4f4;
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+.form-container {
+    width: 40%;
+    margin: auto;
+}
+
+label {
+    font-weight: bold;
+    font-size: 13px;
+}
+
+input,
+select,
+textarea {
+    width: 100%;
+    padding: 6px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+textarea {
+    height: 70px;
+}
+
+.radio-group,
+.checkbox-group {
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.radio-group input,
+.checkbox-group input {
+    width: auto;
+}
+
+button {
+    background-color: #4a89dc;
+    color: white;
+    border: none;
+    padding: 7px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 12px;
+}
+
+button:hover {
+    background-color: #357abd;
+}
+</style>
